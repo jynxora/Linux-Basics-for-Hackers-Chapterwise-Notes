@@ -16,7 +16,7 @@
 ### 📂 Available Formats
 
 📄 [View PDF](./Linux_Basics_for_Hackers_Notes_CHAPTER1.pdf)  
-📝 [View Markdown](./chapter-1/Linux_Basics_for_Hackers_Chapter1.md)
+📝 [View Markdown](./Linux_Basics_for_Hackers_Chapter1.md)
 
 > Each chapter includes CLI examples + red-flag warnings + attack/defense context.
 
