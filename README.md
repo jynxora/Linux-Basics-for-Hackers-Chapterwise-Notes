@@ -1,4 +1,4 @@
-# 🐧 Linux Basics for Hackers – Chapterwise Notes by @jynxora
+# 🐧 Linux Basics for Hackers – Chapterwise Notes
 
 A structured, chapter-by-chapter breakdown of the book **"Linux Basics for Hackers" by OccupyTheWeb**, formatted in both Markdown and PDF.  
 This repo is part of my 700-day challenge to master Cybersecurity, DFIR, and Quantum Computing — one solid brick at a time.
