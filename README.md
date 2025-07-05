@@ -11,8 +11,8 @@ Rather than passive reading, I’m building **reusable, digestible notes** for e
 
 | Chapter | Title | Markdown | PDF |
 |--------|-------|----------|-----|
-| 1 | Terminal Navigation & Linux Intro | [chapter1.md](./Chapter-1/chapter1.md) | [PDF](./Chapter-1/chapter1.pdf) |
-| 2 | Users, Groups & Permissions | [chapter2.md](./Chapter-2/chapter2.md) | [PDF](./Chapter-2/chapter2.pdf) |
+| 1 | Terminal Navigation & Linux Intro | [chapter1.md](./Chapter-1/Linux_Basics_for_Hackers_Chapter1.md) | [PDF](./Chapter-1/Linux_Basics_for_Hackers_Notes_CHAPTER1.pdf) |
+| 2 | Users, Groups & Permissions | [chapter2.md](./Chapter-2/Chapter2.md) | [PDF](./Chapter-2/Chapter-2.pdf) |
 | 3 | 🔜 Coming soon... | - | - |
 
 ---
