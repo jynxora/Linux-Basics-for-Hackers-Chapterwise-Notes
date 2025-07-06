@@ -1,7 +1,7 @@
 # 🐧 Linux Basics for Hackers – Chapterwise Notes
 
 A structured, chapter-by-chapter breakdown of the book **"Linux Basics for Hackers" by OccupyTheWeb**, formatted in both Markdown and PDF. 
-These notes are based on my learning from the book *Linux Basics for Hackers* by OccupyTheWeb.
+These notes are based on my learning from the book *Linux Basics for Hackers* by OccupyTheWeb, including my examples, snapshots, CLI outputs and understandings.
 They are intended for educational and personal reference only.
 Full credit to the author. Please purchase the original book to support the work.
 
