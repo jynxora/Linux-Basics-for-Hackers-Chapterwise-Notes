@@ -1,6 +1,10 @@
 # 🐧 Linux Basics for Hackers – Chapterwise Notes
 
-A structured, chapter-by-chapter breakdown of the book **"Linux Basics for Hackers" by OccupyTheWeb**, formatted in both Markdown and PDF.  
+A structured, chapter-by-chapter breakdown of the book **"Linux Basics for Hackers" by OccupyTheWeb**, formatted in both Markdown and PDF. 
+These notes are based on my learning from the book *Linux Basics for Hackers* by OccupyTheWeb.
+They are intended for educational and personal reference only.
+Full credit to the author. Please purchase the original book to support the work.
+
 This repo is part of my 700-day challenge to master Cybersecurity, DFIR, and Quantum Computing — one solid brick at a time.
 
 Rather than passive reading, I’m building **reusable, digestible notes** for each chapter and documenting the learning process transparently — flaws, gaps, growth, all included.
