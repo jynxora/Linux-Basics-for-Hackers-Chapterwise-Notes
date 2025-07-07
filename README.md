@@ -24,7 +24,7 @@ Rather than passive reading, I’m building **reusable, digestible notes** for e
 
 ## 🧠 Why These Notes?
 
-This is not a cheat sheet. It’s a **learning archive** built from raw effort, updated daily:
+This is not a cheat sheet. It’s a **learning archive** built from raw effort, regularly updated:
 - Clean structure for revision & reuse
 - PDF + Markdown formats
 - Built alongside practical tasks, CTFs, and Volatility workflows
