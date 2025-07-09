@@ -17,8 +17,9 @@ Rather than passive reading, I’m building **reusable, digestible notes** for e
 |--------|-------|----------|-----| ---------------|
 | 1 | Terminal Navigation & Linux Intro | [chapter1.md](./Chapter-1/Linux_Basics_for_Hackers_Chapter1.md) | [PDF](./Chapter-1/Linux_Basics_for_Hackers_Notes_CHAPTER1.pdf) | [⬇️ Download](https://github.com/jynxora/Linux-Notes-for-Hackers/raw/main/Chapter-1/Linux_Basics_for_Hackers_Notes_CHAPTER1.pdf) |
 | 2 | Users, Groups & Permissions | [chapter2.md](./Chapter-2/Chapter2.md) | [PDF](./Chapter-2/Chapter-2.pdf) | [⬇️ Download](https://github.com/jynxora/Linux-Notes-for-Hackers/raw/main/Chapter-2/Chapter-2.pdf) |
-| 3 | ANALYSING & MANAGING NETWORKS | [chapter3.md](./Chapter-3/chapter3.md) | [PDF](./Chapter-3/CHAPTER3.pdf) | [⬇️ Download](https://github.com/jynxora/Linux-Notes-for-Hackers/raw/main/Chapter-3/CHAPTER3.pdf) |
-| 4 |🔜 Coming soon...| - | - | - |
+| 3 | Analyzing and Managing Networks | [chapter3.md](./Chapter-3/chapter3.md) | [PDF](./Chapter-3/CHAPTER3.pdf) | [⬇️ Download](https://github.com/jynxora/Linux-Notes-for-Hackers/raw/main/Chapter-3/CHAPTER3.pdf) |
+| 4 |Software Installation and Upgradation|  | - | - |
+| 5 |🔜 Coming soon...| - | - | - |
 
 ---
 
