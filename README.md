@@ -19,7 +19,8 @@ Rather than passive reading, I’m building **reusable, digestible notes** for e
 | 2 | Users, Groups & Permissions | [chapter2.md](./Chapter-2/Chapter2.md) | [PDF](./Chapter-2/Chapter-2.pdf) | [⬇️ Download](https://github.com/jynxora/Linux-Notes-for-Hackers/raw/main/Chapter-2/Chapter-2.pdf) |
 | 3 | Analyzing and Managing Networks | [chapter3.md](./Chapter-3/chapter3.md) | [PDF](./Chapter-3/CHAPTER3.pdf) | [⬇️ Download](https://github.com/jynxora/Linux-Notes-for-Hackers/raw/main/Chapter-3/CHAPTER3.pdf) |
 | 4 |Software Installation and Upgradation| [chapter4.md](./Chapter-4/chapter4.md) | [PDF](./Chapter-4/CHAPTER4.pdf) | [⬇️ Download](https://github.com/jynxora/Linux-Basics-for-Hackers-Chapterwise-Notes/raw/main/Chapter-4/CHAPTER4.pdf) |
-| 5 |🔜 Coming soon...| - | - | - |
+| 5 |File and Directory Permissions| [chapter5.md](./Chapter-5/chapter5.md)  | [PDF](./Chapter-5/CHAPTER5.pdf) | [⬇️ Download](https://github.com/jynxora/Linux-Basics-for-Hackers-Chapterwise-Notes/raw/main/Chapter-5/CHAPTER5.pdf) |
+| 6 |🔜 Coming soon...| - | - | - |
 
 ---
 
