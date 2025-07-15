@@ -21,7 +21,7 @@ Rather than passive reading, I’m building **reusable, digestible notes** for e
 | 4 |Software Installation and Upgradation| [chapter4.md](./Chapter-4/chapter4.md) | [PDF](./Chapter-4/CHAPTER4.pdf) | [⬇️ Download](https://github.com/jynxora/Linux-Basics-for-Hackers-Chapterwise-Notes/raw/main/Chapter-4/CHAPTER4.pdf) |
 | 5 |File and Directory Permissions| [chapter5.md](./Chapter-5/Chapter5.md)  | [PDF](./Chapter-5/CHAPTER5.pdf) | [⬇️ Download](https://github.com/jynxora/Linux-Basics-for-Hackers-Chapterwise-Notes/raw/main/Chapter-5/CHAPTER5.pdf) |
 | 6 |Process Management| [chapter6.md](./Chapter-6/Chapter6.md) | [PDF](./Chapter-6/CHAPTER6.pdf) | [⬇️ Download](https://github.com/jynxora/Linux-Basics-for-Hackers-Chapterwise-Notes/raw/main/Chapter-6/CHAPTER6.pdf) |
-| 7 |Managing User ENVIRONMENT| [chapter7.md](./Chapter-7/CHAPTER7.md) | [PDF](./Chapter-7/CHAPTER7.PDF) | [⬇️ Download](https://github.com/jynxora/Linux-Basics-for-Hackers-Chapterwise-Notes/raw/main/Chapter-7/CHAPTER7.pdf) |
+| 7 |Managing User ENVIRONMENT| [chapter7.md](./Chapter-7/CHAPTER7.md) | [PDF](./Chapter-7/CHAPTER7.pdf) | [⬇️ Download](https://github.com/jynxora/Linux-Basics-for-Hackers-Chapterwise-Notes/raw/main/Chapter-7/CHAPTER7.pdf) |
 | 8 |🔜 Coming soon...| - | - | - |
 
 ---
