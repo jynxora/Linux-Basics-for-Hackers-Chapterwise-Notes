@@ -23,7 +23,8 @@ Rather than passive reading, I’m building **reusable, digestible notes** for e
 | 6 |Process Management| [chapter6.md](./Chapter-6/Chapter6.md) | [PDF](./Chapter-6/CHAPTER6.pdf) | [⬇️ Download](https://github.com/jynxora/Linux-Basics-for-Hackers-Chapterwise-Notes/raw/main/Chapter-6/CHAPTER6.pdf) |
 | 7 |Managing User ENVIRONMENT| [chapter7.md](./Chapter-7/CHAPTER7.md) | [PDF](./Chapter-7/CHAPTER7.pdf) | [⬇️ Download](https://github.com/jynxora/Linux-Basics-for-Hackers-Chapterwise-Notes/raw/main/Chapter-7/CHAPTER7.pdf) |
 | 8 |BASH Scripting| [chapter8.md](./Chapter-8/CHAPTER8.md) | [PDF](./Chapter-8/CHAPTER8.pdf) | [⬇️ Download](https://github.com/jynxora/Linux-Basics-for-Hackers-Chapterwise-Notes/raw/main/Chapter-8/CHAPTER8.pdf) |
-| 9 |🔜 Coming soon...| - | - | - |
+| 9 |Compress and Achieve| [chapter9.md](./Chapter-9/CHAPTER9.md) | [PDF](./Chapter-9/CHAPTER9.pdf) | [⬇️ Download](https://github.com/jynxora/Linux-Basics-for-Hackers-Chapterwise-Notes/raw/main/Chapter-9/CHAPTER9.pdf) |
+| 10 |🔜 Coming soon...| - | - | - |
 
 ---
 
