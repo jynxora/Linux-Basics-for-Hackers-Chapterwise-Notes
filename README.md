@@ -15,15 +15,15 @@ Rather than passive reading, I’m building **reusable, digestible notes** for e
 
 | Chapter | Title | Markdown | PDF | PDF (Download) |
 |--------|-------|----------|-----| ---------------|
-| 1 | Terminal Navigation & Linux Intro | [chapter1.md](./Chapter-1/Linux_Basics_for_Hackers_Chapter1.md) | [PDF](./Chapter-1/Linux_Basics_for_Hackers_Notes_CHAPTER1.pdf) | [⬇️ Download](https://github.com/jynxora/Linux-Notes-for-Hackers/raw/main/Chapter-1/Linux_Basics_for_Hackers_Notes_CHAPTER1.pdf) |
-| 2 | Users, Groups & Permissions | [chapter2.md](./Chapter-2/Chapter2.md) | [PDF](./Chapter-2/Chapter-2.pdf) | [⬇️ Download](https://github.com/jynxora/Linux-Notes-for-Hackers/raw/main/Chapter-2/Chapter-2.pdf) |
-| 3 | Analyzing and Managing Networks | [chapter3.md](./Chapter-3/chapter3.md) | [PDF](./Chapter-3/CHAPTER3.pdf) | [⬇️ Download](https://github.com/jynxora/Linux-Notes-for-Hackers/raw/main/Chapter-3/CHAPTER3.pdf) |
-| 4 |Software Installation and Upgradation| [chapter4.md](./Chapter-4/chapter4.md) | [PDF](./Chapter-4/CHAPTER4.pdf) | [⬇️ Download](https://github.com/jynxora/Linux-Basics-for-Hackers-Chapterwise-Notes/raw/main/Chapter-4/CHAPTER4.pdf) |
-| 5 |File and Directory Permissions| [chapter5.md](./Chapter-5/Chapter5.md)  | [PDF](./Chapter-5/CHAPTER5.pdf) | [⬇️ Download](https://github.com/jynxora/Linux-Basics-for-Hackers-Chapterwise-Notes/raw/main/Chapter-5/CHAPTER5.pdf) |
-| 6 |Process Management| [chapter6.md](./Chapter-6/Chapter6.md) | [PDF](./Chapter-6/CHAPTER6.pdf) | [⬇️ Download](https://github.com/jynxora/Linux-Basics-for-Hackers-Chapterwise-Notes/raw/main/Chapter-6/CHAPTER6.pdf) |
-| 7 |Managing User ENVIRONMENT| [chapter7.md](./Chapter-7/CHAPTER7.md) | [PDF](./Chapter-7/CHAPTER7.pdf) | [⬇️ Download](https://github.com/jynxora/Linux-Basics-for-Hackers-Chapterwise-Notes/raw/main/Chapter-7/CHAPTER7.pdf) |
-| 8 |BASH Scripting| [chapter8.md](./Chapter-8/CHAPTER8.md) | [PDF](./Chapter-8/CHAPTER8.pdf) | [⬇️ Download](https://github.com/jynxora/Linux-Basics-for-Hackers-Chapterwise-Notes/raw/main/Chapter-8/CHAPTER8.pdf) |
-| 9 |Compress and Archive| [chapter9.md](./Chapter-9/CHAPTER9.md) | [PDF](./Chapter-9/CHAPTER9.pdf) | [⬇️ Download](https://github.com/jynxora/Linux-Basics-for-Hackers-Chapterwise-Notes/raw/main/Chapter-9/CHAPTER9.pdf) |
+| 1 | TERMINAL NAVIGATION AND LINEX TERMINAL | [chapter1.md](./Chapter-1/Linux_Basics_for_Hackers_Chapter1.md) | [PDF](./Chapter-1/Linux_Basics_for_Hackers_Notes_CHAPTER1.pdf) | [⬇️ Download](https://github.com/jynxora/Linux-Notes-for-Hackers/raw/main/Chapter-1/Linux_Basics_for_Hackers_Notes_CHAPTER1.pdf) |
+| 2 | USERS GROUPS AND PERMISSIONS | [chapter2.md](./Chapter-2/Chapter2.md) | [PDF](./Chapter-2/Chapter-2.pdf) | [⬇️ Download](https://github.com/jynxora/Linux-Notes-for-Hackers/raw/main/Chapter-2/Chapter-2.pdf) |
+| 3 | ANALYZING AND MANAGING NETWORKS | [chapter3.md](./Chapter-3/chapter3.md) | [PDF](./Chapter-3/CHAPTER3.pdf) | [⬇️ Download](https://github.com/jynxora/Linux-Notes-for-Hackers/raw/main/Chapter-3/CHAPTER3.pdf) |
+| 4 |SOFTWARE INSTALLATION AND UPGRADATION| [chapter4.md](./Chapter-4/chapter4.md) | [PDF](./Chapter-4/CHAPTER4.pdf) | [⬇️ Download](https://github.com/jynxora/Linux-Basics-for-Hackers-Chapterwise-Notes/raw/main/Chapter-4/CHAPTER4.pdf) |
+| 5 |FILE AND DIRECTORY PERMISSIONS| [chapter5.md](./Chapter-5/Chapter5.md)  | [PDF](./Chapter-5/CHAPTER5.pdf) | [⬇️ Download](https://github.com/jynxora/Linux-Basics-for-Hackers-Chapterwise-Notes/raw/main/Chapter-5/CHAPTER5.pdf) |
+| 6 |PROCESS MANAGEMENT| [chapter6.md](./Chapter-6/Chapter6.md) | [PDF](./Chapter-6/CHAPTER6.pdf) | [⬇️ Download](https://github.com/jynxora/Linux-Basics-for-Hackers-Chapterwise-Notes/raw/main/Chapter-6/CHAPTER6.pdf) |
+| 7 |MANAGING USER ENVIRONMENT| [chapter7.md](./Chapter-7/CHAPTER7.md) | [PDF](./Chapter-7/CHAPTER7.pdf) | [⬇️ Download](https://github.com/jynxora/Linux-Basics-for-Hackers-Chapterwise-Notes/raw/main/Chapter-7/CHAPTER7.pdf) |
+| 8 |BASH SCRIPTING| [chapter8.md](./Chapter-8/CHAPTER8.md) | [PDF](./Chapter-8/CHAPTER8.pdf) | [⬇️ Download](https://github.com/jynxora/Linux-Basics-for-Hackers-Chapterwise-Notes/raw/main/Chapter-8/CHAPTER8.pdf) |
+| 9 |COMPRESS AND ARCHIVE| [chapter9.md](./Chapter-9/CHAPTER9.md) | [PDF](./Chapter-9/CHAPTER9.pdf) | [⬇️ Download](https://github.com/jynxora/Linux-Basics-for-Hackers-Chapterwise-Notes/raw/main/Chapter-9/CHAPTER9.pdf) |
 | 10 |FILESYSTEM AND STORAGE DEVICE MANAGEMENT | [chapter10.md](./Chapter-10/CHAPTER10.md) | [PDF](./Chapter-10/CHAPTER10.pdf) | [⬇️ Download](https://github.com/jynxora/Linux-Basics-for-Hackers-Chapterwise-Notes/raw/main/Chapter-10/CHAPTER10.pdf) |
 | 11 |🔜 Coming soon...| - | - | - |
 
