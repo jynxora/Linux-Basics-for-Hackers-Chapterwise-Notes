@@ -24,7 +24,8 @@ Rather than passive reading, I’m building **reusable, digestible notes** for e
 | 7 |Managing User ENVIRONMENT| [chapter7.md](./Chapter-7/CHAPTER7.md) | [PDF](./Chapter-7/CHAPTER7.pdf) | [⬇️ Download](https://github.com/jynxora/Linux-Basics-for-Hackers-Chapterwise-Notes/raw/main/Chapter-7/CHAPTER7.pdf) |
 | 8 |BASH Scripting| [chapter8.md](./Chapter-8/CHAPTER8.md) | [PDF](./Chapter-8/CHAPTER8.pdf) | [⬇️ Download](https://github.com/jynxora/Linux-Basics-for-Hackers-Chapterwise-Notes/raw/main/Chapter-8/CHAPTER8.pdf) |
 | 9 |Compress and Archive| [chapter9.md](./Chapter-9/CHAPTER9.md) | [PDF](./Chapter-9/CHAPTER9.pdf) | [⬇️ Download](https://github.com/jynxora/Linux-Basics-for-Hackers-Chapterwise-Notes/raw/main/Chapter-9/CHAPTER9.pdf) |
-| 10 |🔜 Coming soon...| - | - | - |
+| 10 |FILESYSTEM AND STORAGE DEVICE MANAGEMENT | [chapter10.md](./Chapter-10/CHAPTER10.md) | [PDF](./Chapter-10/CHAPTER10.pdf) | [⬇️ Download](https://github.com/jynxora/Linux-Basics-for-Hackers-Chapterwise-Notes/raw/main/Chapter-10/CHAPTER10.pdf) |
+| 11 |🔜 Coming soon...| - | - | - |
 
 ---
 
