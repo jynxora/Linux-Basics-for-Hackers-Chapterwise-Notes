@@ -26,8 +26,9 @@ Rather than passive reading, I’m building **reusable, digestible notes** for e
 | 9 |COMPRESS AND ARCHIVE| [chapter9.md](./Chapter-9/CHAPTER9.md) | [PDF](./Chapter-9/CHAPTER9.pdf) | [⬇️ Download](https://github.com/jynxora/Linux-Basics-for-Hackers-Chapterwise-Notes/raw/main/Chapter-9/CHAPTER9.pdf) |
 | 10 |FILESYSTEM AND STORAGE DEVICE MANAGEMENT | [chapter10.md](./Chapter-10/CHAPTER10.md) | [PDF](./Chapter-10/CHAPTER10.pdf) | [⬇️ Download](https://github.com/jynxora/Linux-Basics-for-Hackers-Chapterwise-Notes/raw/main/Chapter-10/CHAPTER10.pdf) |
 | 11 |THE LOGGING SYSTEM| [chapter11.md](./CHAPTER-11/CHAPTER11.md) | [PDF](./CHAPTER-11/CHAPTER11.pdf) | [⬇️ Download](https://github.com/jynxora/Linux-Basics-for-Hackers-Chapterwise-Notes/raw/main/CHAPTER-11/CHAPTER11.pdf) |
-| 12 |🔜 Coming soon...| - | - | - |
-
+| 12 |MANAGING THE LINUX KERNEL| [chapter12.md](./CHAPTER-12/CHAPTER12.md) | [PDF](./CHAPTER-12/CHAPTER12.pdf) | [⬇️ Download](https://github.com/jynxora/Linux-Basics-for-Hackers-Chapterwise-Notes/raw/main/CHAPTER-12/CHAPTER12.pdf) |
+| 13 |BECOMING SECURE AND ANONYMOUS| [chapter13.md](./CHAPTER-13/CHAPTER13.md) | [PDF](./CHAPTER-13/CHAPTER13.pdf) | [⬇️ Download](https://github.com/jynxora/Linux-Basics-for-Hackers-Chapterwise-Notes/blob/main/CHAPTER-13/CHAPTER13.pdf) |
+| 14 |🔜 Coming soon...| - | - | - |
 ---
 
 ## 🧠 Why These Notes?
