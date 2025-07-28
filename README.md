@@ -29,7 +29,8 @@ Rather than passive reading, I’m building **reusable, digestible notes** for e
 | 12 |MANAGING THE LINUX KERNEL| [chapter12.md](./CHAPTER-12/CHAPTER12.md) | [PDF](./CHAPTER-12/CHAPTER12.pdf) | [⬇️ Download](https://github.com/jynxora/Linux-Basics-for-Hackers-Chapterwise-Notes/raw/main/CHAPTER-12/CHAPTER12.pdf) |
 | 13 |BECOMING SECURE AND ANONYMOUS| [chapter13.md](./CHAPTER-13/CHAPTER13.md) | [PDF](./CHAPTER-13/CHAPTER13.pdf) | [⬇️ Download](https://github.com/jynxora/Linux-Basics-for-Hackers-Chapterwise-Notes/raw/main/CHAPTER-13/CHAPTER13.pdf) |
 | 14 |USING AND ABUSING SERVICES| [chapter14.md](./CHAPTER-14/CHAPTER14.md) | [PDF](./CHAPTER-14/CHAPTER14.pdf) | [⬇️ Download](https://github.com/jynxora/Linux-Basics-for-Hackers-Chapterwise-Notes/raw/main/CHAPTER-14/CHAPTER14.pdf) |
-| 15 |🔜 Coming soon...| - | - | - |
+| 15 |TASK AUTOMATION AND JOB SCHEDULING| [chapter15.md](./CHAPTER-15/CHAPTER15.md) | [PDF](./CHAPTER-15/CHAPTER15.pdf) | [⬇️ Download](https://github.com/jynxora/Linux-Basics-for-Hackers-Chapterwise-Notes/raw/main/CHAPTER-15/CHAPTER15.pdf) |
+| 16 |🔜 Coming soon...| - | - | - |
 ---
 
 ## 🧠 Why These Notes?
