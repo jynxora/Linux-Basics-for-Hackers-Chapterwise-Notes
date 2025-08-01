@@ -30,7 +30,7 @@ Rather than passive reading, I’m building **reusable, digestible notes** for e
 | 13 |BECOMING SECURE AND ANONYMOUS| [chapter13.md](./CHAPTER-13/CHAPTER13.md) | [PDF](./CHAPTER-13/CHAPTER13.pdf) | [⬇️ Download](https://github.com/jynxora/Linux-Basics-for-Hackers-Chapterwise-Notes/raw/main/CHAPTER-13/CHAPTER13.pdf) |
 | 14 |USING AND ABUSING SERVICES| [chapter14.md](./CHAPTER-14/CHAPTER14.md) | [PDF](./CHAPTER-14/CHAPTER14.pdf) | [⬇️ Download](https://github.com/jynxora/Linux-Basics-for-Hackers-Chapterwise-Notes/raw/main/CHAPTER-14/CHAPTER14.pdf) |
 | 15 |TASK AUTOMATION AND JOB SCHEDULING| [chapter15.md](./CHAPTER-15/CHAPTER15.md) | [PDF](./CHAPTER-15/CHAPTER15.pdf) | [⬇️ Download](https://github.com/jynxora/Linux-Basics-for-Hackers-Chapterwise-Notes/raw/main/CHAPTER-15/CHAPTER15.pdf) |
-| 16 |🔜 Coming soon...| - | - | - |
+| 16 |PYTHON SCRIPTING BASICS| [chapter16.md](./CHAPTER-16/CHAPTER16.md) | [PDF](./CHAPTER-16/CHAPTER16.pdf) | [⬇️ Download](https://github.com/jynxora/Linux-Basics-for-Hackers-Chapterwise-Notes/raw/main/CHAPTER-16/CHAPTER16.pdf) |
 ---
 
 ## 🧠 Why These Notes?
